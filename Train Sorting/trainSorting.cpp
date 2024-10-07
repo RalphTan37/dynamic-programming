@@ -5,8 +5,8 @@
 using namespace std;
 
 int main() {
-    // Initialize vectors a and b with size 100 and all elements as 0
-    vector<int> a(100, 0), b(100, 0);
+    // Initialize vectors a and b with size 2000 and all elements as 0
+    vector<int> a(2000, 0), b(2000, 0);
     int n;
 
     // Input handling: first take number of elements
